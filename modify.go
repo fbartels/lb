@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/urfave/cli"
-	"gopkg.in/ldap.v3"
+	"github.com/go-ldap/ldap/v3"
 	"log"
 	"reflect"
 )
